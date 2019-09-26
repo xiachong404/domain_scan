@@ -4,7 +4,9 @@
 Usage: getsub.py [options]
 
 Options:
+
   -h, --help            show this help message and exit
+  
   -u URL, --url=URL     Get a single top-level domain names.
   -l DOMAIN_LIST, --list=DOMAIN_LIST
                         Top-level domain name list.
