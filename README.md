@@ -1,4 +1,4 @@
-# wwwscan
+# domain_scan
 多线程批量爆破二级域名
 ```
 Usage: getsub.py [options]
